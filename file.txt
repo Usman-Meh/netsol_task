@@ -1,0 +1,4 @@
+guidence about git action 
+
+that how we perform test when the new files commit 
+
